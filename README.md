@@ -1,8 +1,8 @@
-# callv3
+# callv1
 Spam Call Update Version 4.0
 
 
-#cara install
+# cara install
 
 $pkg update && pkg upgrade
 
@@ -12,8 +12,4 @@ $pkg install curl clang
 
 $pip install mechanize requests bs4
 
-$git clone https://github.com/BangDanz/callv3
-
-$cd callv3
-
-$python call.py
+$git clone https://github.com/MrRobotFramework/SpamCallV1
