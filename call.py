@@ -7,9 +7,9 @@ def balik():
     elif f == "t":
          sys.exit("\033[1;91mexit\033[1;97m")
 os.system("clear")
-print ("\tSPAM CALL V4.0")
-print ("      Coded: \033[1;96mFahmiApz\033[1;97m")
-print ("\033[1;97m*     Github:\033[1;92m github.com/BangDanz\033[1;97m      *")
+print ("\tSPAM CALL V1.0")
+print ("      Coded: \033[1;96mMrRobot\033[1;97m")
+print ("\033[1;97m*     Youtube :\033[1;92m MrRobot Framework\033[1;97m      *")
 print()
 print ("\033[90m>\033[1;97m CONTOH: \033[1;92m+62857×××××××××")
 no = input("\033[90m> \033[1;97mNOMOR TARGET: \033[1;92m")
